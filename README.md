@@ -1,5 +1,5 @@
 
-<img src="images/azure-devops-fundamentals.png " alt="app-screen" width="800px" height ="200px"/>
+<img src="images/azure-devops-fundamentals.png " alt="app-screen" width="500px" height ="200px" />
 
 # azure-devops-fundamentals
 
