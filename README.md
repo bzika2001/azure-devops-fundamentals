@@ -1,4 +1,5 @@
-![alt text](images/download.jfif)
+
+<img src="images/azure-devops-fundamentals.png " alt="app-screen" width="800px" height ="200px"/>
 
 # azure-devops-fundamentals
 
